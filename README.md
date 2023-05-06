@@ -1,14 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Vikaskumar Pandey</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaspandey7&label=Profile%20views&color=0e75b6&style=flat" alt="vikaspandey7" /> </p>
 
-- 👯 I’m looking to collaborate on **Lightn**
+- 👯 I’m looking to collaborate on **Lightning Web Component**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikaspandey7](https://github.com/Vikaspandey7)
 
-- 📝 I regularly write articles on [https://salesforcepress.blogspot.com/](https://salesforcepress.blogspot.com/)
+- 📝 I regularly write articles on [https://salesforcesherpa.hashnode.dev/](https://salesforcesherpa.hashnode.dev/)
 
 - 💬 Ask me about **Salesforce Development**
 
@@ -30,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikaspandey7&show_icons=true&locale=en" alt="vikaspandey7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaspandey7&" alt="vikaspandey7" /></p>
-
