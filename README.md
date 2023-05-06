@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Vikaspandey7/Vikaspandey7/blob/main/images_cleanup.jpg)
+![MasterHead](https://github.com/Vikaspandey7/Vikaspandey7/blob/main/images_cleanup.jpg) width
 
 
 <h1 align="center">Hi 👋, I'm Vikaskumar Pandey</h1>
