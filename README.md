@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Vikaspandey7/Vikaspandey7/blob/main/git1.jpg) 
+![MasterHead](https://github.com/Vikaspandey7/Vikaspandey7/blob/main/salesforce-developer_activity_banner_cleanup.jpg) 
 
 
 <h1 align="center">Hi 👋, I'm Vikaskumar Pandey</h1>
