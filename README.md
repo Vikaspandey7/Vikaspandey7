@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Vikaskumar Pandey</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaspandey7&label=Profile%20views&color=0e75b6&style=flat" alt="vikaspandey7" /> </p>
 
@@ -26,7 +27,7 @@
 <a href="https://twitter.com/vikas_kumar04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikas_kumar04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vikaskumar-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikaskumar-pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/salesforce_sherpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salesforce_sherpa" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://salesforcesherpa.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://salesforcesherpa.hashnode.dev/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@salesforcesherpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@salesforcesherpa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikaspandey7&show_icons=true&locale=en" alt="vikaspandey7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaspandey7&" alt="vikaspandey7" /></p>
+
