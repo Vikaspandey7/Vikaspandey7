@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikaskumar Pandey</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/DivlOk2S7HzyOTc7my" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/salesforce-fly-flying-clouds-DivlOk2S7HzyOTc7my">via GIPHY</a></p>
+<img src = https://giphy.com/embed/DivlOk2S7HzyOTc7my >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaspandey7&label=Profile%20views&color=0e75b6&style=flat" alt="vikaspandey7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vikas_kumar04" target="blank"><img src="https://img.shields.io/twitter/follow/vikas_kumar04?logo=twitter&style=for-the-badge" alt="vikas_kumar04" /></a> </p>
