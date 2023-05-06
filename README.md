@@ -1,10 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fqrsolutions.com.au%2Fwp-content%2Fuploads%2F2022%2F01%2FSalesforce-Developer-Experience-1.jpg&tbnid=_gRO0TVQwENExM&vet=10CDsQMyiAAWoXChMI8O-KuZTg_gIVAAAAAB0AAAAAEAM..i&imgrefurl=https%3A%2F%2Fqrsolutions.com.au%2Fsalesforce-developer-experience-1-jpg%2F&docid=C3Qeax9W9db-nM&w=1920&h=1080&q=salesforce%20developer&ved=0CDsQMyiAAWoXChMI8O-KuZTg_gIVAAAAAB0AAAAAEAM))]
-
-
-
 <h1 align="center">Hi 👋, I'm Vikaskumar Pandey</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaspandey7&label=Profile%20views&color=0e75b6&style=flat" alt="vikaspandey7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vikas_kumar04" target="blank"><img src="https://img.shields.io/twitter/follow/vikas_kumar04?logo=twitter&style=for-the-badge" alt="vikas_kumar04" /></a> </p>
@@ -18,6 +15,8 @@
 - 💬 Ask me about **Salesforce Development**
 
 - 📫 How to reach me **techknowlege191@gmail.com**
+
+- ⚡ Fun fact **As a Salesforce developer, I have the superpower to streamline and automate business processes using the Salesforce platform.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
