@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Vikaspandey7/Vikaspandey7/blob/main/Salesforce-Developers-Opengraph.gif) 
+![MasterHead](https://github.com/Vikaspandey7/Vikaspandey7/blob/main/git1.jpg) 
 
 
 <h1 align="center">Hi 👋, I'm Vikaskumar Pandey</h1>
